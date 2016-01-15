@@ -1,2 +1,2 @@
-# distributed-java
-Distributed Java
+# Distributed Java.《分布式 Java》
+Distributed Java.《分布式 Java》
