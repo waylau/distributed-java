@@ -15,7 +15,7 @@ This is the summary of my book.
         * JDK API
         * 开源框架：ActiveMQ
         * 其他
-    * 远程调用
+    * Web service
         * JDK API
         * 开源框架
         * RPC
