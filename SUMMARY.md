@@ -3,28 +3,38 @@
 This is the summary of my book.
 
 * [基础概念](docs/basic.md)
+* [通信原理]()
+	* IPC
+	* RPC
 * 划分子系统
     * 一个“超市”发展的例子
-    * 分层    
-* 系统间的通信
-    * Java 网络通信基础
-        * BIO
-        * NIO
-        * AIO
-    * 基于消息的通信
-        * JDK API
-        * 开源框架：ActiveMQ
-        * 其他
-    * Web service
-        * JDK API
-        * 开源框架
-        * RPC
-        * REST        
-* 缓存
-* 持久化存储
-    * 数据压缩
-* 负载均衡
-* 搜索
-* 安全
-* [附录](docs/appendix.md)
+    * 分层
+* Java 网络通信基础
+	* Socket
+	* BIO
+	* NIO
+	* AIO
+* 分布式对象 Java RMI
+	* 概念
+	* 架构
+	* 常用接口
+	* 示例
+* 基于消息的通信
+	* MOM 概述
+	* JMS
+	* ActiveMQ 示例
+	* 其他
+* Web Services
+	* JAX-WS
+	* RESTful 概述
+	* 基于 Jersey 的 JAX-RS 示例 
+* 微服务
+	* 概念
+	* Spring Boot
+* 监控
+	* 概念
+	* JMX
+	*　ZooKeeper
 * To be continued ...未完待续...
+* [参考文献](docs/Ref.md)
+
