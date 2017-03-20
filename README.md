@@ -11,7 +11,7 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 
 ### Contact 联系作者:
 
-* Blog:[www.waylau.com](http://www.waylau.com)
+* Blog:[waylau.com](https://waylau.com)
 * Gmail: [waylau521@gmail.com](mailto:waylau521@gmail.com)
 * Weibo: [waylau521](http://weibo.com/waylau521)
 * Twitter: [waylau521](https://twitter.com/waylau521)
