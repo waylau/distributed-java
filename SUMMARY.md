@@ -7,7 +7,7 @@
     * 分层
 * 通信原理
     * [IPC](docs/ipc.md)
-    * [RPC](docs/rpc.md)
+    * [RPC](https://waylau.com/remote-procedure-calls)
 * 网络通信基础
     * [概述](docs/net-overview.md)
     * [Socket](docs/socket.md)
