@@ -18,7 +18,7 @@
     * [概述](docs/rmi-overview.md)
     * [架构](docs/architecture.md)
     * [常用接口](docs/api.md)
-    * [示例](docs/example.md)
+    * [示例](docs/rmi-example.md)
 * 基于消息的通信
     * [概述](docs/mq-overview.md)
     * [JMS](docs/jms.md)

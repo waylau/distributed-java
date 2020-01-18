@@ -21,6 +21,8 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 包含示例如下：
 
 * [在Java中实现常用网络I/O模型](samples/java-io-mode)
+* [并发带来的风险——死锁](samples/java-concurrency)
+* [基于Java RMI实现分布式对象通信](samples/java-rmi)
 * 陆续整理中...
 
 
