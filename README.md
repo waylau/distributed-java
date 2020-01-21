@@ -27,6 +27,8 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 * [基于Jersey来构建REST服务](samples/jersey-rest)
 * [基于Apache CXF来构建REST服务](samples/cxf-rest)
 * [基于Spring Web MVC来构建REST服务](samples/spring-rest)
+* [Jetty HTTP Server](samples/javase-rest)
+* [基于Spring Boot实现微服务](samples/spring-boot-rest)
 * 陆续整理中...
 
 
