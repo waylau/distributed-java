@@ -29,6 +29,7 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 * [基于Spring Web MVC来构建REST服务](samples/spring-rest)
 * [Jetty HTTP Server](samples/javase-rest)
 * [基于Spring Boot实现微服务](samples/spring-boot-rest)
+* [基于CQRS微服务通信](samples/axon-cqrs)
 * 陆续整理中...
 
 
