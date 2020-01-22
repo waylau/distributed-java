@@ -30,6 +30,7 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 * [Jetty HTTP Server](samples/javase-rest)
 * [基于Spring Boot实现微服务](samples/spring-boot-rest)
 * [基于CQRS微服务通信](samples/axon-cqrs)
+* [使用AWS平台实现Serverless架构](samples/game-server)
 * 陆续整理中...
 
 
