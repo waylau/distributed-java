@@ -32,6 +32,7 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 * [基于CQRS微服务通信](samples/axon-cqrs)
 * [使用AWS平台实现Serverless架构](samples/game-server)
 * [基于Spark词频统计](samples/spark-word-count)
+* [基于MongoDB文件服务器](https://github.com/waylau/mongodb-file-server)
 * [基于ZooKeeper的服务注册和发现](samples/zk-registry-discovery)
 * 陆续整理中...
 
