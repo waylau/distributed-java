@@ -34,6 +34,8 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 * [基于Spark词频统计](samples/spark-word-count)
 * [基于MongoDB文件服务器](https://github.com/waylau/mongodb-file-server)
 * [基于ZooKeeper的服务注册和发现](samples/zk-registry-discovery)
+* [基于Spring Cloud的服务器](samples/eureka-server)
+* [基于Spring Cloud的客户端](samples/eureka-client)
 * 陆续整理中...
 
 
