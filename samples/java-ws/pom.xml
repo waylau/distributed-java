@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.waylau</groupId>
+	<artifactId>java-ws</artifactId>
+	<version>1.0.0</version>
+	<packaging>jar</packaging>
+
+	<name>java-ws</name>
+	<url>https://waylau.com</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
+		<jaxws-api.version>2.3.1</jaxws-api.version>
+		<junit.jupiter.version>5.5.2</junit.jupiter.version>
+	</properties>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+			</plugin>
+
+		</plugins>
+	</build>
+	<dependencies>
+		<dependency>
+		    <groupId>javax.xml.ws</groupId>
+		    <artifactId>jaxws-api</artifactId>
+		    <version>${jaxws-api.version}</version>
+		    <scope>runtime</scope>
+		</dependency>
+	
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter</artifactId>
+			<version>${junit.jupiter.version}</version>
+			<scope>test</scope>
+		</dependency>
+
+	</dependencies>
+</project>

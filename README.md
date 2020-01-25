@@ -23,6 +23,7 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 * [在Java中实现常用网络I/O模型](samples/java-io-mode)
 * [并发带来的风险——死锁](samples/java-concurrency)
 * [基于Java RMI实现分布式对象通信](samples/java-rmi)
+* [基于JAX-WS实现Web服务](samples/java-ws)
 * [基于JMS的消息发送和接收](samples/jms-msg)
 * [基于Jersey来构建REST服务](samples/jersey-rest)
 * [基于Apache CXF来构建REST服务](samples/cxf-rest)
