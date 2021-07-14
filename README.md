@@ -60,7 +60,7 @@ Distributed Java.Let's [READ](SUMMARY.md)!
 
 与本书配套的书籍已经出版：
 
-* [《分布式系统常用技术及案例分析》](https://github.com/waylau/distributed-systems-technologies-and-cases-analysis)
+* [《分布式系统开发实战》](https://github.com/waylau/distributed-system-tutorial-samples)
 
 
 ## 联系作者
