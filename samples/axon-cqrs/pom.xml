@@ -16,7 +16,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>5.2.3.RELEASE</spring.version>
 		<axon.version>3.4.3</axon.version>
-		<log4j.version>2.13.3</log4j.version>
+		<log4j.version>2.17.0</log4j.version>
 	</properties>
 	<dependencies>
 		<dependency>
