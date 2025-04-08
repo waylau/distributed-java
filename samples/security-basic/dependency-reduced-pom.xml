@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.waylau.spring</groupId>
+  <artifactId>security-basic</artifactId>
+  <name>security-basic</name>
+  <version>1.0.0</version>
+  <organization>
+    <name>waylau.com</name>
+    <url>https://waylau.com</url>
+  </organization>
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-shade-plugin</artifactId>
+        <version>3.6.0</version>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals>
+              <goal>shade</goal>
+            </goals>
+            <configuration>
+              <transformers>
+                <transformer>
+                  <mainClass>com.waylau.spring.mvc.Application</mainClass>
+                </transformer>
+              </transformers>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+  <repositories>
+    <repository>
+      <id>spring-snapshots</id>
+      <name>Spring Snapshots</name>
+      <url>https://repo.spring.io/snapshot</url>
+    </repository>
+  </repositories>
+  <properties>
+    <spring-security.version>5.2.15.RELEASE</spring-security.version>
+    <spring.version>5.1.5.RELEASE</spring.version>
+    <jetty.version>9.4.14.v20181114</jetty.version>
+    <jackson.version>2.9.7</jackson.version>
+  </properties>
+</project>
